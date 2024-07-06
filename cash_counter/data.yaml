@@ -1,0 +1,5 @@
+train: D:\Mekki\UTM\Code\YOLO_custom_training\yolov7\cash_counter/train/images
+val: D:\Mekki\UTM\Code\YOLO_custom_training\yolov7\cash_counter/valid/images
+
+nc: 10
+names: ['Dime', 'Nickel', 'Penny', 'Quarter', 'fifty', 'five', 'hundred', 'one', 'ten', 'twenty']
